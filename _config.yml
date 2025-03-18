@@ -1,1 +1,2 @@
-theme: minima
+html{background-color: rgba(26, 25, 25, 0.61)}
+link{color: aquamarine;}
